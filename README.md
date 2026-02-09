@@ -90,27 +90,6 @@ Java
 
 Basic cryptographic mathematics
 
-Command-line execution
-
-▶️ How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/cryptography-algorithms.git
-
-
-Navigate to the required folder
-
-Run the Python or Java file:
-
-python filename.py
-
-
-or
-
-javac filename.java
-java filename
-
 📚 Learning Outcomes
 
 Understand encryption and decryption techniques
